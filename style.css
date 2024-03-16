@@ -1,0 +1,34 @@
+body{
+    background: url(./bg.jpg);
+    opacity: 5;
+}
+p{
+    text-align: center;
+    color:chocolate;
+    font-size: 50px;
+    font-style: normal;
+}
+.name{
+    display: flex;
+    justify-content:space-around
+}
+.tale{
+    display: flex;
+    justify-content: space-between;
+    
+}
+h3{
+    color: whitesmoke;
+    font-size: 40px;
+}
+img{
+    border-radius: 20%;
+}
+.tale{
+    background-color:black;
+    opacity: 70%;
+}
+.name{
+    border-radius: 30%;
+    opacity: 70% ;
+}
